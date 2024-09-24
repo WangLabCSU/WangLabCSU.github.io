@@ -136,5 +136,5 @@ awards:
 ---
 
 
-Shixiang Wang is an associate professor specializing in cancer bioinformatics at [Central South University](https://faculty.csu.edu.cn/wangshixiang). With a keen focus on cancer genomics, immunotherapy biomarkers, and bioinformatics, he is at the forefront of advancing cancer research. As the head of the [WangLab@CSU](https://github.com/WangLabCSU) group and co-leader of the [Oncoharmony Network](https://zhoulab.ac.cn/) alongside Prof. [Jian-Guo Zhou](https://www.researchgate.net/profile/Jian-Guo-Zhou), he spearheads the development of innovative data resources and platforms for cancer immunotherapy, as well as pioneering bioinformatics tools for cancer biology.
+Shixiang Wang is an associate professor specializing in cancer bioinformatics at [Central South University](https://faculty.csu.edu.cn/wangshixiang). With a keen focus on cancer genomics, immunotherapy biomarkers, and bioinformatics. As the head of the [WangLab@CSU](https://github.com/WangLabCSU) group and co-leader of the [Oncoharmony Network](https://zhoulab.ac.cn/) alongside Prof. [Jian-Guo Zhou](https://www.researchgate.net/profile/Jian-Guo-Zhou), he spearheads the development of innovative data resources and platforms for cancer immunotherapy, as well as pioneering bioinformatics tools for cancer biology.
 
