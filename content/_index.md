@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-09-24
 type: landing
 
 design:
@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        #text: See CV
+        #url: https://faculty.csu.edu.cn/wangshixiang #uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a computational biologist working on cancer genomics. I use bioinformatics skills to decode the unfound patterns in cancer, and explore biomarkers for explaining the cancer heterogeneity and predicting the efficacy of cancer treatments, mainly in immunotherapy.
+        I am passionate about open science and developing open-source analysis toolkits.
+        My long-term goal in academic field is being a master in a subfield of cancer bioinformatics and trying my best to continually boost the open-source bioinformatics ecosystem in China.
         
         Please reach out to collaborate 😃
     design:
@@ -82,7 +82,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         author: ""

@@ -1,0 +1,5 @@
+public/
+resources/
+_vendor/
+.hugo*
+.DS_Store

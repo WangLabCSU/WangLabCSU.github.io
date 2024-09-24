@@ -20,4 +20,16 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+      
+  - block: collection
+    content:
+      title: Our team
+      text: Meet our team.
+      filters:
+        folders:
+          - team
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---
