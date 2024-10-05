@@ -85,8 +85,6 @@
       "avatar",
       "avatar-emoji",
       "avatar-wrapper",
-      "backlink",
-      "backlinks",
       "bg-[length:0px_10px]",
       "bg-gradient-to-r",
       "bg-gray-100",
@@ -576,7 +574,7 @@
       "-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor",
       "TableOfContents",
       "callouts",
-      "chart-574238961",
+      "chart-963815472",
       "charts",
       "code",
       "crowd-funded-open-source-software",
@@ -628,7 +626,11 @@
       "themes",
       "todo-lists",
       "top",
-      "video"
+      "video",
+      "个人评述",
+      "信息聚焦",
+      "文献总结",
+      "相关背景"
     ]
   }
 }
