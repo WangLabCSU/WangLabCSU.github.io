@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "WangLab@CSU"
+      text: "Cancer Genomics & Bioinformatics (CGB) Lab"
 
 # Site footer
 footer:
