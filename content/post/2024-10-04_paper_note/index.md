@@ -5,7 +5,7 @@ date: 2024-10-04
 authors:
   - admin
 tags:
-  - CNS简记
+  - CNS-note
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
