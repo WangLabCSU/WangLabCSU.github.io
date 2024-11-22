@@ -39,7 +39,7 @@ sections:
         I am passionate about open science and developing open-source analysis toolkits.
         My long-term goal in academic field is being a master in a subfield of cancer bioinformatics and trying my best to continually boost the open-source bioinformatics ecosystem in China.
         
-        Please reach out to collaborate 😃
+        Please reach out to join us or collaborate 😃
     design:
       columns: '1'
   - block: collection

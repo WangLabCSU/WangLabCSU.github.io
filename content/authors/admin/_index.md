@@ -54,7 +54,7 @@ education:
     date_start: 2016-07-16
     date_end: 2021-07-01
     summary: |
-      Supervisor: **Prof. Xue-Song Liu**
+      Supervisor: [**Prof. Xue-Song Liu**](https://slst.shanghaitech.edu.cn/lxs_en/main.htm)
   - area: BSc Biomedical Engineering
     institution: University of Electronic Science and Technology of China
     date_start: 2012-09-01
@@ -78,15 +78,15 @@ work:
     date_start: 2021-07-15
     date_end: 2024-06-28
     summary: |
-      Supervisor: **Prof. Rui-Hua Xu**;
-      Collaborator : **Prof. Qi Zhao** & **Prof. Feng Wang**
+      Supervisor: [**Prof. Rui-Hua Xu**](https://english.sysucc.org.cn/info_19.aspx?itemid=154);
+      Collaborator : [**Prof. Qi Zhao**](https://www.researchgate.net/profile/Qi-Zhao-27) & [**Prof. Feng Wang**](https://www.researchgate.net/profile/Feng-Wang-245)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: R/Linux
+      - name: Linux/R/Python/Web-dev/Rust etc.
         description: ''
         percent: 80
         icon: code-bracket
