@@ -10,9 +10,9 @@ image:
 
 authors:
   - admin
-  - Ted
 
 tags:
+  - Bultin
   - Academic
   - Hugo Blox
   - Markdown

@@ -6,6 +6,7 @@ math: true
 authors:
   - admin
 tags:
+  - Bultin
   - Hugo
   - Hugo Blox Builder
   - Markdown

@@ -5,6 +5,7 @@ date: 2023-10-26
 authors:
   - admin
 tags:
+  - Bultin
   - Second Brain
   - Markdown
 image:
