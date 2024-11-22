@@ -12,7 +12,7 @@ authors:
   - admin
 
 tags:
-  - Bultin
+  - builtin
   - Academic
   - Hugo Blox
   - Markdown
